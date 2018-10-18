@@ -1,0 +1,57 @@
+body {
+	font-family: "Sans serif";
+}
+
+h1 {
+	border-bottom: solid grey 1px;
+}
+
+#table {
+	border: solid black 1px;
+	float: left;
+	clear: both;
+	background-color:#ECEAFE;
+
+}
+
+#history {
+	display: inline-block;
+	
+}
+
+a:link {
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: purple;
+	text-decoration: none;
+}
+
+ul {
+	color: blue;
+}
+
+.column {
+	float: left;
+	width: 45%;
+	padding-right: 5%;
+
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+
+#links{
+display: inline-block;
+}
+
+
+
